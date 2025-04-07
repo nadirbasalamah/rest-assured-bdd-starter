@@ -1,4 +1,4 @@
-# rest-assured-bdd-starter
+# rest-assured-bdd-project
 
 Simple template for API testing with REST Assured and Serenity BDD.
 

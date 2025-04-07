@@ -2,6 +2,13 @@
 
 Simple template for API testing with REST Assured and Serenity BDD.
 
+## Included Dependencies
+
+- **Serenity BDD** + **REST Assured**
+- **JSON**
+- **Java Faker**
+- **JSON Schema Validator**
+
 ## How to Use
 
 1. Clone this repository.
